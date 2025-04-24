@@ -1,4 +1,4 @@
-✨ **I'm special** ✨
+✨ **My profile** ✨
 <!--
 - 🔭 I’m currently working on GEII 
 - 🌱 I’m currently learning ...
